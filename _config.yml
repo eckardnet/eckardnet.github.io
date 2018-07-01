@@ -1,4 +1,4 @@
-remote_theme: type-on-strap
+theme: minima
 name: Eckard Mühlich
 theme_settings:
   title: Eckards Blog
