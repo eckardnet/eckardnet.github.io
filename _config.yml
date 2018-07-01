@@ -1,2 +1,5 @@
 remote_theme: type-on-strap
 name: Eckard Mühlich
+theme_settings:
+  title: Eckards Blog
+  footer_text: Copyright 2018
