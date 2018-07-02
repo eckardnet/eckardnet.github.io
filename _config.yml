@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: so-simple-theme
 name: Eckard Mühlich
 theme_settings:
   title: Eckards Blog
