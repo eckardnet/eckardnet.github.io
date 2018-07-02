@@ -1,5 +1,3 @@
 remote_theme: mmistakes/so-simple-theme
 name: Eckard Mühlich
-theme_settings:
-  title: Eckards Blog
-  footer_text: Copyright 2018
+title: Eckards Blog
