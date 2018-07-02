@@ -1,4 +1,4 @@
-remote_theme: so-simple-theme
+remote_theme: mmistakes/so-simple-theme
 name: Eckard Mühlich
 theme_settings:
   title: Eckards Blog
